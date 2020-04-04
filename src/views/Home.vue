@@ -1,5 +1,5 @@
 <template>
-  <v-container fill-height>
+  <v-container>
     <v-col cols="12">
       <v-layout justify-center>
         <h3>name</h3>
