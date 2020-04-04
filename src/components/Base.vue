@@ -1,8 +1,8 @@
 <template>
   <v-container>
     <v-row>
-      <v-col :cols="3">
-        <v-card to="/" raised color="#BEFF9F" height="50">
+      <v-col cols="3">
+        <v-card to="/" raised color="#B8F89A" height="50">
           <v-card-text>
             <v-layout justify-center>
               <p>HOME</p>
@@ -10,7 +10,7 @@
           </v-card-text>
         </v-card>
       </v-col>
-      <v-col :cols="3">
+      <v-col cols="3">
         <v-card to="/works" raised color="#BEEFE6" height="50">
           <v-card-text>
             <v-layout justify-center>
@@ -19,7 +19,7 @@
           </v-card-text>
         </v-card>
       </v-col>
-      <v-col :cols="3">
+      <v-col cols="3">
         <v-card to="/experiences" raised color="#FFD2E8" height="50">
           <v-card-text>
             <v-layout justify-center>
@@ -28,11 +28,11 @@
           </v-card-text>
         </v-card>
       </v-col>
-      <v-col :cols="3">
+      <v-col cols="3">
         <v-card to="/skills" raised color="#FEEAB7" height="50">
           <v-card-text>
             <v-layout justify-center>
-                <p color="red" fontSize="100px">SKILLS</p>
+                <p>SKILLS</p>
             </v-layout>
           </v-card-text>
         </v-card>
