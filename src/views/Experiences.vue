@@ -64,7 +64,7 @@
             Riot.js, RubyonRailsで、うつ病などの精神疾患で困っている当事者を持つご家族が、日々の介護の様子や症状・行動などを、PCやスマートフォンを使って日々記録し、後でその記録を振り返ることができるWebサービス「みまもメイト」の改修、新機能の追加をしています。
           </v-card-text>
           <v-card-text>
-            RubyonRailsのgrapeというgemを使ってAPIの処理をしたり、Riot.jsでフロント部分のロジックを書いたりするなど、幅広く活動しています。
+            RubyonRailsのgrapeというgemを使ってAPIの処理をしたり、Riot.jsでフロント部分のロジックを書いたり、RSpecでテストコードを書くなど、幅広く活動しています。
           </v-card-text>
         </v-card>
       </v-timeline-item>
