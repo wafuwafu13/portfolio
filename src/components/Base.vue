@@ -1,10 +1,46 @@
 <template>
   <v-container>
-    <p><router-link to="/">home</router-link></p>
-    <p><router-link to="/works">works</router-link></p>
-    <p><router-link to="/experiences">experiences</router-link></p>
-    <p><router-link to="/skills">skills</router-link></p>
-    <router-view></router-view>
+    <v-row>
+      <v-col :cols="3">
+        <v-card to="/" raised color="#BEFF9F" height="50">
+          <v-card-text>
+            <v-layout justify-center>
+              <p>HOME</p>
+           </v-layout>
+          </v-card-text>
+        </v-card>
+      </v-col>
+      <v-col :cols="3">
+        <v-card to="/works" raised color="#BEEFE6" height="50">
+          <v-card-text>
+            <v-layout justify-center>
+                <p>WORKS</p>
+            </v-layout>
+          </v-card-text>
+        </v-card>
+      </v-col>
+      <v-col :cols="3">
+        <v-card to="/experiences" raised color="#FFD2E8" height="50">
+          <v-card-text>
+            <v-layout justify-center>
+                <p>EXPERIENCES</p>
+            </v-layout>
+          </v-card-text>
+        </v-card>
+      </v-col>
+      <v-col :cols="3">
+        <v-card to="/skills" raised color="#FEEAB7" height="50">
+          <v-card-text>
+            <v-layout justify-center>
+                <p color="red" fontSize="100px">SKILLS</p>
+            </v-layout>
+          </v-card-text>
+        </v-card>
+      </v-col>
+    </v-row>
+    <v-container>
+      <router-view></router-view>
+    </v-container>
   </v-container>
 </template>
 
