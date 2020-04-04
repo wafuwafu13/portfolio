@@ -3,11 +3,11 @@
     <v-row>
       <v-col cols=12 sm=12 md=6 lg=6 xl=6>
         <v-card shaped color="#BEEFE6">
+          <v-layout justify-center>
+            <v-card-title>portfolio</v-card-title>
+          </v-layout>
           <v-card-text>
-            <v-layout justify-center>
-              <h1>portfolio</h1>
-           </v-layout>
-           <v-col class="pt-5" cols=12>
+           <v-col cols=12>
              <v-img src="@/assets/portfolio.png" height=300></v-img>
            </v-col>
            <v-layout justify-center>
@@ -21,10 +21,10 @@
       </v-col>
       <v-col cols=12 sm=12 md=6 lg=6 xl=6>
         <v-card shaped color="#BEEFE6">
+          <v-layout justify-center>
+            <v-card-title>日本の統計</v-card-title>
+          </v-layout>
           <v-card-text>
-            <v-layout justify-center>
-              <h1>日本の統計</h1>
-           </v-layout>
            <v-col class="pt-5" cols=12>
              <v-img src="@/assets/e-stat-native.png" height=300></v-img>
            </v-col>
