@@ -26,7 +26,7 @@
               jQuery: 実務半年 / Riot.js: 実務1ヶ月 / ReactNative: 個人開発半年 / Vue: 個人開発1ヶ月
             </v-card-text>
             <v-card-text>
-              他の言語と比べて実務でも個人開発でも常に触れています。
+              実務で、モックを用いた正常系のテストをJestで書いたこともあります。
             </v-card-text>
           </v-card>
         </v-col>
