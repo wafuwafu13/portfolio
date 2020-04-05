@@ -1,34 +1,7 @@
-# portfolio
+## :globe_with_meridians:  App URL
 
-## Project setup
-```
-npm install
-```
+### [田川裕隆のポートフォリオサイト](https://tagawa.netlify.com/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## :pencil2:  Output Article
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### [Vue初心者が2日でポートフォリオサイトを作る](https://qiita.com/wafuwafu13/items/e86fd839a5728a1d5d43)
