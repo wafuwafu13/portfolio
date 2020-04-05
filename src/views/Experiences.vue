@@ -34,7 +34,7 @@
             株式会社タンバリン
           </v-card-title>
           <v-card-subtitle>
-            2020 3月~4月
+            2020 3月
           </v-card-subtitle>
           <v-divider></v-divider>
           <v-card-text>

@@ -11,7 +11,7 @@
         </v-card>
       </v-col>
       <v-col cols="3">
-        <v-card to="/works" raised color="#BEEFE6" height="50">
+        <v-card to="/works" raised color="#CDFFF6" height="50">
           <v-card-text>
             <v-layout justify-center>
                 <p>WORKS</p>
