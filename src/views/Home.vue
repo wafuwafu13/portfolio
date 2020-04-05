@@ -15,7 +15,7 @@
             所属 同志社大学社会学部
           </v-expansion-panel-header>
           <v-expansion-panel-content>
-            美豆小学校 => 大淀中学校 => 嵯峨野高校 => 河合塾 => 同志社大学社会学部社会学科(23卒)
+            美豆小学校 => 大淀中学校 => 嵯峨野高校京都こすもす科共修 => 河合塾 => 同志社大学社会学部社会学科(23卒)
           </v-expansion-panel-content>
         </v-expansion-panel>
         <v-expansion-panel>
@@ -59,7 +59,7 @@
           </v-expansion-panel-content>
         </v-expansion-panel>
       </v-expansion-panels>
-      <v-row class="pt-8">
+      <v-row class="pt-10">
         <v-col cols="3">
           <v-card href="https://github.com/wafuwafu13" target="_blank" raised color="#B8F89A" height="50">
             <v-card-text>
