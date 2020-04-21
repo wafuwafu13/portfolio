@@ -23,7 +23,7 @@
             資格
           </v-expansion-panel-header>
           <v-expansion-panel-content>
-            取得: 英検準2級 / Python3エンジニア認定基礎試験  受験予定: 基本情報 / 応用情報 / TOEIC / HSK / 統計検定 / FP / 色彩検定
+            取得: 英検準2級 / Python3エンジニア認定基礎試験
           </v-expansion-panel-content>
         </v-expansion-panel>
         <v-expansion-panel>

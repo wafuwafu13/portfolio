@@ -54,7 +54,7 @@
               RubyonRails: 実務1ヶ月
             </v-card-text>
             <v-card-text>
-              実務ではDBとgrapeでのapi処理で用いています。DB構築はできませんが、apiの処理やrspecでテスココードを書けます。Railsチュートリアル2周済みです。
+              実務ではDBとgrapeでのapi処理で用いています。DB構築はできませんが、apiの処理やrspecでテスココードを書けます。
             </v-card-text>
           </v-card>
         </v-col>

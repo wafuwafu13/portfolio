@@ -40,5 +40,26 @@
         </v-card>
       </v-col>
     </v-row>
+    <v-row>
+      <v-col cols=12 sm=12 md=6 lg=6 xl=6>
+        <v-card shaped color="#CDFFF6">
+          <v-layout justify-center>
+            <v-card-title>カオスジェネレーター</v-card-title>
+          </v-layout>
+          <v-img src="@/assets/chaos-generator.png"></v-img>
+          <v-card-subtitle>
+            <v-layout justify-center>
+              Python / 社会学の授業を自力でコード化
+            </v-layout>
+           <v-layout justify-center>
+              <a class="pt-5" href="https://github.com/wafuwafu13/chaos-generator" target="_blank">Github</a>
+           </v-layout>
+           <v-layout justify-center>
+              <a class="pt-5" href="https://kyoupurog.hatenablog.com/entry/2020/04/20/201717?_ga=2.133063371.454462925.1587375416-132769761.1586770378" target="_blank">家族社会学 第2講 ロジスティック方程式とカオス反制御・制御から見出すシステム家族療法</a>
+           </v-layout>
+           </v-card-subtitle>
+        </v-card>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
