@@ -9,7 +9,7 @@
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              実務半年 
+              実務7ヶ月 
             </v-card-text>
             <v-card-text>
               Bootstarpと合わせて使うことが多く、基本的な実装やレスポンシブ対応ができます。
@@ -23,7 +23,7 @@
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              jQuery: 実務半年 / Riot.js: 実務2ヶ月 / ReactNative: 個人開発半年 / Vue: 個人開発1ヶ月
+              jQuery: 実務7ヶ月 / Riot.js: 実務3ヶ月 / ReactNative: 個人開発7ヶ月 / Vue: 個人開発1ヶ月
             </v-card-text>
             <v-card-text>
               実務で、モックを用いた正常系のテストをJestで書いたこともあります。
@@ -37,10 +37,10 @@
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              実務1ヶ月 個人開発1ヶ月
+              実務1ヶ月 個人開発2ヶ月
             </v-card-text>
             <v-card-text>
-              勉強中です。基礎の基礎が分かっています。実務ではGASのコードを書きました。
+              実務ではGASのコードを書き、個人開発ではReactを書きました。
             </v-card-text>
           </v-card>
         </v-col>
@@ -51,7 +51,7 @@
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              RubyonRails: 実務2ヶ月
+              RubyonRails: 実務3ヶ月
             </v-card-text>
             <v-card-text>
               実務ではDBとgrapeでのapi処理で用いています。DB構築はできませんが、apiの処理やrspecでテスココードを書けます。
@@ -107,7 +107,7 @@
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              実務半年
+              実務7ヶ月
             </v-card-text>
             <v-card-text>
               実務に入って困らない程度の操作ができます。
