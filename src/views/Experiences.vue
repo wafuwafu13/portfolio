@@ -64,7 +64,27 @@
             Riot.js, RubyonRailsで、うつ病などの精神疾患で困っている当事者を持つご家族が、日々の介護の様子や症状・行動などを、PCやスマートフォンを使って日々記録し、後でその記録を振り返ることができるWebサービス「みまもメイト」の改修、新機能の追加をしています。
           </v-card-text>
           <v-card-text>
-            RubyonRailsのgrapeというgemを使ってAPIの処理をしたり、Riot.jsでフロント部分のロジックを書いたり、RSpecでテストコードを書くなど、幅広く活動しています。
+            RubyonRailsのgrapeというgemを使ってAPIの処理をしたり、Riot.jsでフロント部分のロジックを書いたり、RSpecでテストコードを書いたり、デバッグをしてバグ修正やデザイン修正をするなど、幅広く活動させてもらってます。
+          </v-card-text>
+        </v-card>
+      </v-timeline-item>
+      <v-timeline-item color="#FFD2E8">
+        <v-card>
+          <v-card-title>
+            CyberAgent Web Speed Hackathon Online
+          </v-card-title>
+          <v-card-subtitle>
+            2020 4/25, 26
+          </v-card-subtitle>
+          <v-divider></v-divider>
+          <v-card-text>
+            サイバーエージェント主催の、予め準備してあるWebアプリケーションのパフォーマンスを改善することで競い合うリモート参加型のハッカソンに参加しました。
+          </v-card-text>
+          <v-card-text>
+            参加するにあたり、書籍「Webフロントエンドハイパフォーマンスチューニング」を読み、Gzip圧縮や非同期読み込み等をインプットしてから挑みましたが、全く歯が立たなかったです。
+          </v-card-text>
+          <v-card-text>
+            webpackのbuild最適化やライブラリの選定など、その場でコードを読んで判断する力がまだまだ足りないなと感じました。パフォーマンスチューニングに興味が湧いたのでいろんな場面で挑戦していきたいです。
           </v-card-text>
         </v-card>
       </v-timeline-item>

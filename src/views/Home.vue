@@ -23,7 +23,7 @@
             資格
           </v-expansion-panel-header>
           <v-expansion-panel-content>
-            取得: 英検準2級 / Python3エンジニア認定基礎試験
+            応用情報、AWS、PAST中級、TOEIC900を取りたい(願望)
           </v-expansion-panel-content>
         </v-expansion-panel>
         <v-expansion-panel>

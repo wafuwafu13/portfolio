@@ -86,7 +86,7 @@
               <v-btn class="ml-5" icon target="_blank">
                 <v-icon x-large>mdi-android</v-icon>
               </v-btn>
-              <v-btn class="ml-5" icon href="https://wafuwafu13.wixsite.com/home" target="_blank">
+              <v-btn class="ml-5" icon href="https://tamen.jimdofree.com/" target="_blank">
                 <v-icon x-large>mdi-web</v-icon>
               </v-btn>
               <v-btn class="ml-5" icon href="https://github.com/wafuwafu13/flash-mental-arithmetic" target="_blank">
