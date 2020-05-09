@@ -23,7 +23,7 @@
             資格
           </v-expansion-panel-header>
           <v-expansion-panel-content>
-            応用情報、AWS、PAST中級、TOEIC900を取りたい(願望)
+            応用情報、AWS、PAST中級、TOEIC900を取りたい (全て願望と意思)
           </v-expansion-panel-content>
         </v-expansion-panel>
         <v-expansion-panel>
@@ -31,7 +31,7 @@
             お気に入りの学術書
           </v-expansion-panel-header>
           <v-expansion-panel-content>
-            勉強の哲学(千葉雅也) / なっとく!アルゴリズム(Aditya Y. Bhargava) / プログラムはなぜ動くのか(矢沢久雄) / 社会科学と因果分析(佐藤俊樹)
+            勉強の哲学 (千葉雅也) / なっとく!アルゴリズム (Aditya Y. Bhargava) / 「なぜ」シリーズ (矢沢久雄) / 社会科学と因果分析 (佐藤俊樹)
           </v-expansion-panel-content>
         </v-expansion-panel>
         <v-expansion-panel>
@@ -39,7 +39,7 @@
             お気に入りの本、作家
           </v-expansion-panel-header>
           <v-expansion-panel-content>
-            太宰治全集(全10巻) / 走れ!T校バスケット部(松崎洋) / バッテリー(あさのあつこ) / 僕らの七日間戦争シリーズ(宗田理) / 池井戸潤 / 重松清
+            太宰治全集 (全10巻) / 走れ!T校バスケット部 (松崎洋) / バッテリー (あさのあつこ) / 僕らの七日間戦争シリーズ (宗田理) / 池井戸潤 / 重松清
           </v-expansion-panel-content>
         </v-expansion-panel>
         <v-expansion-panel>

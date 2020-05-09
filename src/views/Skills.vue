@@ -26,7 +26,7 @@
               jQuery: 実務7ヶ月 / Riot.js: 実務3ヶ月 / ReactNative: 個人開発7ヶ月 / Vue: 個人開発1ヶ月
             </v-card-text>
             <v-card-text>
-              実務で、モックを用いた正常系のテストをJestで書いたこともあります。
+              ちょっとできます。Jestもそこそこ書けます。パフォーマンスも意識できます。
             </v-card-text>
           </v-card>
         </v-col>
@@ -40,7 +40,21 @@
               実務1ヶ月 個人開発2ヶ月
             </v-card-text>
             <v-card-text>
-              実務ではGASのコードを書き、個人開発ではReactを書きました。
+              anyとかasを濫用したくないという強い意思を持っています。
+            </v-card-text>
+          </v-card>
+        </v-col>
+        <v-col cols=12 sm=12 md=3 lg=3 xl=3>
+          <v-card shaped color="#FEEAB7" height="250">
+            <v-layout justify-center>
+              <v-card-title>GAS, Bolt</v-card-title>
+            </v-layout>
+            <v-divider></v-divider>
+            <v-card-text>
+              実務: 業務用SlackBot作成
+            </v-card-text>
+            <v-card-text>
+              clasp、typescriptを活用し、Jestのモックでテストされた安全なBotを作成できます。
             </v-card-text>
           </v-card>
         </v-col>
@@ -82,7 +96,7 @@
               Lalavel: 趣味
             </v-card-text>
             <v-card-text>
-              基礎を理解しています。LalavelとVueで開発することに興味があります。
+              基礎を理解しています。LalavelとVueで開発することに少しだけ興味があります。
             </v-card-text>
           </v-card>
         </v-col>
@@ -125,6 +139,20 @@
             </v-card-text>
             <v-card-text>
               RubyonRailsやDjangoの環境構築ができます。
+            </v-card-text>
+          </v-card>
+        </v-col>
+        <v-col cols=12 sm=12 md=3 lg=3 xl=3>
+          <v-card shaped color="#FEEAB7" height="250">
+            <v-layout justify-center>
+              <v-card-title>マーケティング</v-card-title>
+            </v-layout>
+            <v-divider></v-divider>
+            <v-card-text>
+              実務半年
+            </v-card-text>
+            <v-card-text>
+              正しい日本語を使った質の良い記事を作成、公正できます。ツールを用いたキーワード選定や企画書作成ができます。AppleStoreでSEO1位を取っています。
             </v-card-text>
           </v-card>
         </v-col>
