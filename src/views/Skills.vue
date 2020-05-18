@@ -23,7 +23,7 @@
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              jQuery: 実務7ヶ月 / Riot.js: 実務3ヶ月 / ReactNative: 個人開発7ヶ月 / Vue: 個人開発1ヶ月
+              jQuery: 実務7ヶ月 / Riot.js: 実務3ヶ月 / ReactNative: 個人開発7ヶ月 / Vue: 個人開発1ヶ月 / Node.js
             </v-card-text>
             <v-card-text>
               ちょっとできます。Jestもそこそこ書けます。パフォーマンスも意識できます。
@@ -68,7 +68,7 @@
               RubyonRails: 実務3ヶ月
             </v-card-text>
             <v-card-text>
-              実務ではDBとgrapeでのapi処理で用いています。DB構築はできませんが、apiの処理やrspecでテスココードを書けます。
+              実務ではDBとgrapeでのapi処理で用いています。実務で0からのDB構築はしたことがないですが、apiの処理やrspecでテスココードを書けます。
             </v-card-text>
           </v-card>
         </v-col>
@@ -82,7 +82,7 @@
               Wagtail(Django): 実務3ヶ月
             </v-card-text>
             <v-card-text>
-              Webサイトが構築できます。機械学習の結果をWebフレームワークで連携して表示させることに興味があります。
+              Webシステムが構築できます。Atcoderでも用います。機械学習は何もわかりません。
             </v-card-text>
           </v-card>
         </v-col>
@@ -139,6 +139,21 @@
             </v-card-text>
             <v-card-text>
               RubyonRailsやDjangoの環境構築ができます。
+              CTFでもLinuxの環境構築に使います。
+            </v-card-text>
+          </v-card>
+        </v-col>
+        <v-col cols=12 sm=12 md=3 lg=3 xl=3>
+          <v-card shaped color="#FEEAB7" height="250">
+            <v-layout justify-center>
+              <v-card-title>Linux</v-card-title>
+            </v-layout>
+            <v-divider></v-divider>
+            <v-card-text>
+              趣味
+            </v-card-text>
+            <v-card-text>
+              基本的なコマンドがわかります。
             </v-card-text>
           </v-card>
         </v-col>

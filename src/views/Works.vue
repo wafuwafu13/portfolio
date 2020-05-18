@@ -9,6 +9,9 @@
           <v-img src="@/assets/portfolio.png" height="305"></v-img>
           <v-card-subtitle>
             <v-layout justify-center>
+              2020年 3月
+            </v-layout>
+            <v-layout justify-center>
               Vue.ts + Vuetify / シンプルなデザインのポートフォリオサイト
             </v-layout>
             <v-layout class="pt-5" justify-center>
@@ -29,6 +32,9 @@
           </v-layout>
           <v-img src="@/assets/flash.png" height="305"></v-img>
           <v-card-subtitle>
+            <v-layout justify-center>
+              2020年 5月
+            </v-layout>
             <v-layout justify-center>
               ReactNative + Firebase / 世界に一つの多面フラッシュ暗算アプリ
             </v-layout>
@@ -62,6 +68,9 @@
           <v-img src="@/assets/e-stat-native.png"></v-img>
           <v-card-subtitle>
             <v-layout justify-center>
+              2019年 12月
+            </v-layout>
+            <v-layout justify-center>
               ReactNative / e-StatのAPIを用いた統計アプリ
             </v-layout>
            <v-layout class="pt-5" justify-center>
@@ -86,6 +95,9 @@
           <v-img src="@/assets/e-stat-population.png" height="305"></v-img>
           <v-card-subtitle>
             <v-layout justify-center>
+              2020年 5月
+            </v-layout>
+            <v-layout justify-center>
               Node.js + Jest + Travis CI / e-StatのAPIを用いて人口を取得するnpmパッケージ
             </v-layout>
            <v-layout class="pt-5" justify-center>
@@ -109,6 +121,9 @@
           <v-img src="@/assets/chaos-generator.png" height="340"></v-img>
           <v-card-subtitle>
             <v-layout justify-center>
+              2020年 4月
+            </v-layout>
+            <v-layout justify-center>
               Python / 家族社会学の講義を自力でコード化
             </v-layout>
            <v-layout class="pt-5" justify-center>
@@ -118,6 +133,30 @@
            </v-layout>
            <v-layout justify-center>
               <a class="pt-5" href="https://kyoupurog.hatenablog.com/entry/2020/04/20/201717?_ga=2.133063371.454462925.1587375416-132769761.1586770378" target="_blank">ロジスティック方程式とカオス反制御・制御から見出すシステム家族療法</a>
+           </v-layout>
+           </v-card-subtitle>
+        </v-card>
+      </v-col>
+      <v-col cols=12 sm=12 md=6 lg=6 xl=6>
+        <v-card shaped color="#CDFFF6">
+          <v-layout justify-center>
+            <v-card-title>riot-commentout</v-card-title>
+          </v-layout>
+          <v-img src="@/assets/riot-commentout.png" height="340"></v-img>
+          <v-card-subtitle>
+            <v-layout justify-center>
+              2020年 5月
+            </v-layout>
+            <v-layout justify-center>
+              Typescript / Riot.jsでのコメントアウトを補助するVSCode拡張機能
+            </v-layout>
+           <v-layout class="pt-5" justify-center>
+              <v-btn icon href="https://github.com/wafuwafu13/riot-commentout" target="_blank">
+                <v-icon x-large>mdi-github</v-icon>
+              </v-btn>
+           </v-layout>
+           <v-layout justify-center>
+              <a class="pt-5" href="https://qiita.com/wafuwafu13/items/3c13da6c22f898b09be9" target="_blank">VSCode拡張機能開発メモ</a>
            </v-layout>
            </v-card-subtitle>
         </v-card>
