@@ -23,7 +23,7 @@
             資格
           </v-expansion-panel-header>
           <v-expansion-panel-content>
-            応用情報、AWS、PAST中級、TOEIC900を取りたい (全て願望と意思)
+            Python3エンジニア認定基礎試験
           </v-expansion-panel-content>
         </v-expansion-panel>
         <v-expansion-panel>
@@ -47,7 +47,7 @@
             好きなテレビ番組
           </v-expansion-panel-header>
           <v-expansion-panel-content>
-            さんまのお笑い向上委員会 / アメトーク / しゃべくり007 / 全力!脱力タイムズ / 千鳥の相席食堂 / 千原ジュニアの座王 / 情熱大陸
+            アメトーク / しゃべくり007 / 全力!脱力タイムズ / 千鳥の相席食堂 / 千原ジュニアの座王 / さんまのお笑い向上委員会
           </v-expansion-panel-content>
         </v-expansion-panel>
         <v-expansion-panel>

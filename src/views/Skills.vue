@@ -9,7 +9,7 @@
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              実務7ヶ月 
+              実務8ヶ月 
             </v-card-text>
             <v-card-text>
               Bootstarpと合わせて使うことが多く、基本的な実装やレスポンシブ対応ができます。
@@ -19,11 +19,11 @@
         <v-col cols=12 sm=12 md=3 lg=3 xl=3>
           <v-card shaped color="#FEEAB7" height="250">
             <v-layout justify-center>
-              <v-card-title>Javascript</v-card-title>
+              <v-card-title>JavaScript</v-card-title>
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              jQuery: 実務7ヶ月 / Riot.js: 実務3ヶ月 / ReactNative: 個人開発7ヶ月 / Vue: 個人開発1ヶ月 / Node.js
+              jQuery: 実務8ヶ月 / Riot.js: 実務4ヶ月 / ReactNative: 個人開発8ヶ月 / Vue: 個人開発1ヶ月 / Node.js
             </v-card-text>
             <v-card-text>
               ちょっとできます。Jestもそこそこ書けます。パフォーマンスも意識できます。
@@ -33,14 +33,14 @@
         <v-col cols=12 sm=12 md=3 lg=3 xl=3>
           <v-card shaped color="#FEEAB7" height="250">
             <v-layout justify-center>
-              <v-card-title>Typescript</v-card-title>
+              <v-card-title>TypeScript</v-card-title>
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
               実務1ヶ月 個人開発2ヶ月
             </v-card-text>
             <v-card-text>
-              anyとかasを濫用したくないという強い意思を持っています。
+              anyとかasを濫用したくないという強い意思を持っています。JavaScriptで書くより好きです。
             </v-card-text>
           </v-card>
         </v-col>
@@ -65,10 +65,10 @@
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              RubyonRails: 実務3ヶ月
+              RubyonRails: 実務4ヶ月
             </v-card-text>
             <v-card-text>
-              実務ではDBとgrapeでのapi処理で用いています。実務で0からのDB構築はしたことがないですが、apiの処理やrspecでテスココードを書けます。
+              実務ではバックエンドのAPI処理で用いています。RSpecでテスココードも書けます。
             </v-card-text>
           </v-card>
         </v-col>
@@ -82,7 +82,7 @@
               Wagtail(Django): 実務3ヶ月
             </v-card-text>
             <v-card-text>
-              Webシステムが構築できます。Atcoderでも用います。機械学習は何もわかりません。
+              Webシステムが構築できます。Atcoderでも用います。機械学習はほとんど何もわかりませんが興味はあります。
             </v-card-text>
           </v-card>
         </v-col>
@@ -117,14 +117,14 @@
         <v-col cols=12 sm=12 md=3 lg=3 xl=3>
           <v-card shaped color="#FEEAB7" height="250">
             <v-layout justify-center>
-              <v-card-title>Github,Bitbucket</v-card-title>
+              <v-card-title>GitHub,Bitbucket</v-card-title>
             </v-layout>
             <v-divider></v-divider>
             <v-card-text>
-              実務7ヶ月
+              実務8ヶ月
             </v-card-text>
             <v-card-text>
-              実務に入って困らない程度の操作ができます。
+              実務に入って困らない程度の操作ができます。プルリクの粒度も意識できます。
             </v-card-text>
           </v-card>
         </v-col>
@@ -139,7 +139,7 @@
             </v-card-text>
             <v-card-text>
               RubyonRailsやDjangoの環境構築ができます。
-              CTFでもLinuxの環境構築に使います。
+              CTFでもたまにLinuxの環境構築に使います。
             </v-card-text>
           </v-card>
         </v-col>

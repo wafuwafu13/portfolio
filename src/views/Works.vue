@@ -161,6 +161,33 @@
            </v-card-subtitle>
         </v-card>
       </v-col>
+      <v-col cols=12 sm=12 md=6 lg=6 xl=6>
+        <v-card shaped color="#CDFFF6">
+          <v-layout justify-center>
+            <v-card-title>ポケモン足し算</v-card-title>
+          </v-layout>
+          <v-img src="@/assets/go-go-pokemon.png" height="340"></v-img>
+          <v-card-subtitle>
+            <v-layout justify-center>
+              2020年 6月
+            </v-layout>
+            <v-layout justify-center>
+              Express + RubyonRails / フロントもバックも書いてみた
+            </v-layout>
+           <v-layout class="pt-5" justify-center>
+             <v-btn class="ml-5" icon href="https://go-go-pokemon.herokuapp.com/" target="_blank">
+                <v-icon x-large>mdi-web</v-icon>
+              </v-btn>
+              <v-btn class="ml-5" icon href="https://github.com/wafuwafu13/go-go-pokemon" target="_blank">
+                <v-icon x-large>mdi-github</v-icon>
+              </v-btn>
+           </v-layout>
+           <v-layout justify-center>
+              <a class="pt-5" href="https://qiita.com/wafuwafu13/items/4e7039c9359541d0c27e" target="_blank">Express, RubyOnRailsでWebアプリをフルスタック開発しよう！</a>
+           </v-layout>
+           </v-card-subtitle>
+        </v-card>
+      </v-col>
     </v-row>
   </v-container>
 </template>
