@@ -27,12 +27,20 @@
           </v-card>
         </v-col>
       </v-row>
+      <v-row>
+        <v-col>
+          <v-layout justify-center>
+            <Timeline id="wafuwafu13_" sourceType="profile" />
+          </v-layout>
+        </v-col>
+      </v-row>
     </v-col>
   </v-container>
 </template>
 
 <script>
   import Vue from 'vue'
+  import { Timeline } from 'vue-tweet-embed'
   export default Vue.extend({
     name: 'Home',
     data: () => ({
@@ -51,7 +59,7 @@
         },
         {
           header: 'お気に入りの学術書',
-          content: '勉強の哲学 (千葉雅也) / なっとく!アルゴリズム (Aditya Y. Bhargava) / 「なぜ」シリーズ (矢沢久雄) / 社会科学と因果分析 (佐藤俊樹)'
+          content: '勉強の哲学 (千葉雅也) / なっとく!アルゴリズム (Aditya Y. Bhargava) / 「なぜ」シリーズ (矢沢久雄) / アーキテクチャの生態系(濱野智史)'
         },
         {
           header: 'お気に入りの本、作家',
@@ -84,6 +92,9 @@
           title: 'LAPRAS'
         },
       ]
-    })
+    }),
+    components: {
+      'Timeline': Timeline
+    }
   })
 </script>

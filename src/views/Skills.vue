@@ -47,7 +47,7 @@
         {
           title: 'Riot.js',
           date: '実務4ヶ月',
-          description: 'jQuery依存のバグが多かったのであまり良い思い出はありません。'
+          description: '既存のコードを読んで改修できます。'
         },
         {
           title: 'Vue.js, Vuetify',
@@ -77,7 +77,7 @@
         {
           title: 'Go',
           date: '趣味',
-          description: '基礎文法は押さえているつもりです。'
+          description: '基礎文法は押さえているつもりです。 インタプリタを完成させたいです。'
         },
         {
           title: 'Docker',

@@ -1,6 +1,6 @@
 <template>
   <v-content>
-    <v-toolbar max-height="60" :class="itemName">
+    <v-toolbar :class="itemName">
       <v-app-bar-nav-icon 
         @click.native.stop="sideNav = !sideNav" 
         class="hidden-sm-and-up">
@@ -20,7 +20,7 @@
         </v-btn>
       </v-toolbar-items>
     </v-toolbar>
-    <v-navigation-drawer absolute temporary v-model="sideNav">
+    <v-navigation-drawer fixed v-model="sideNav">
       <v-list>
         <v-list-item 
           v-for="item in menuItems" 
