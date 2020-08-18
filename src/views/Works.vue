@@ -125,6 +125,21 @@
               url: 'https://marketplace.visualstudio.com/items?itemName=hirotakatagawa.riot-commentout'
             }
           ]
+        },
+        {
+          title: 'TypeScript製インタプリタ',
+          image: require("@/assets/interpreter.png"),
+          height: '345',
+          date: '2020年 8月',
+          description: 'Typescript / 『Go言語で作るインタプリタ』をTypeScriptで実装',
+          articleUrl: 'https://wafuwafu13.hatenadiary.com/entry/2020/08/18/115126',
+          articleTitle: '『Go言語で作るインタプリタ』をTypeScriptで実装した(前編)',
+          button: [
+            {
+              icon: 'mdi-github',
+              url: 'https://github.com/wafuwafu13/Interpreter-made-in-TypeScript'
+            }
+          ]
         }
       ]
     })

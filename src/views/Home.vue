@@ -50,7 +50,7 @@
           content: '田川裕隆(たがわひろたか)'
         },
         {
-          header: '所属',
+          header: '大学',
           content: '同志社大学社会学部(23卒)'
         },
         {
@@ -80,12 +80,12 @@
           title: 'GitHub'
         },
         {
-          url: 'https://qiita.com/wafuwafu13',
-          title: 'Qiita'
+          url: 'https://wafuwafu13.hatenadiary.com/',
+          title: 'Hatena'
         },
         {
-          url: 'https://wafuwafu13.hatenablog.com/',
-          title: 'Hatena'
+          url: 'https://qiita.com/wafuwafu13',
+          title: 'Qiita'
         },
         {
           url: 'https://lapras.com/public/5ZYRU00',
