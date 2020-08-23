@@ -47,7 +47,6 @@
           { icon: 'mdi-home', title: 'home', link: '/'},
           { icon: 'mdi-laptop', title: 'works', link: '/works'},
           { icon: 'mdi-airplane', title: 'experiences', link: '/experiences'},
-          { icon: 'mdi-face', title: 'skils', link: '/skills'}
         ]
     }),
     computed: {
@@ -56,10 +55,8 @@
           return 'home'
         } else if (this.$route.path == '/works') {
           return 'works'
-        } else if (this.$route.path == '/experiences') {
-          return 'experiences'
         } else {
-          return 'skils'
+          return 'experiences'
         }
       }
     }
