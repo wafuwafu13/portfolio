@@ -26,12 +26,8 @@
             </v-card-text>
           </v-card>
         </v-col>
-      </v-row>
-      <v-row>
-        <v-col>
-          <v-layout justify-center>
-            <Timeline id="wafuwafu13_" sourceType="profile" />
-          </v-layout>
+        <v-col cols="2" offset-md="10" class="text-center">
+          <v-img class="pt-5 mt-5" align="right" src="@/assets/face.png"></v-img>
         </v-col>
       </v-row>
     </v-col>
@@ -92,9 +88,6 @@
           title: 'LAPRAS'
         },
       ]
-    }),
-    components: {
-      'Timeline': Timeline
-    }
+    })
   })
 </script>

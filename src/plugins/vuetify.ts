@@ -9,8 +9,8 @@ export default new Vuetify({
             light: {
                 home: "#B8F89A",
                 works: "#CDFFF6",
-                experiences: "#FFD2E8",
-                skils: "#FEEAB7"
+                experiences: "#FEEAB7",
+                // skils: "#FEEAB7"
             }
         }
     }
