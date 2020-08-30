@@ -36,7 +36,6 @@
 
 <script>
   import Vue from 'vue'
-  import { Timeline } from 'vue-tweet-embed'
   export default Vue.extend({
     name: 'Home',
     data: () => ({

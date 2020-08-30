@@ -89,13 +89,17 @@
           companyName: '株式会社いい生活',
           date: '2020 8月24日~28日　インターン',
           texts: [
-            'Job:　',
-            'Use:　',
+            'Job:　「大学生にいい生活」の開発',
+            'Use:　Vue.js, Firebase',
           ],
           buttons: [
             {
               text: 'COMPANY',
               url: 'https://www.e-seikatsu.info/',
+            },
+            {
+              text: 'ARTICLE',
+              url: 'https://wafuwafu13.hatenadiary.com/entry/2020/08/29/114547',
             }
           ]
         },
