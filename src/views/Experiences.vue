@@ -107,6 +107,8 @@
           companyName: '株式会社はてな',
           date: '2020 8月~現在　アルバイト, インターン',
           texts: [
+            'Job:　xyz記法とマイクロサービスの構築 (9月7日~11日)',
+            'Use:　Go, Python, Kubernetes, gRPC',
             'Job:　「はてなブログ」の開発',
             'Use:　Perl'
           ],
@@ -114,6 +116,10 @@
             {
               text: 'COMPANY',
               url: 'https://hatenacorp.jp/',
+            },
+            {
+              text: 'ARTICLE',
+              url: 'https://wafuwafu13.hatenadiary.com/entry/2020/09/11/184640',
             }
           ]
         },
